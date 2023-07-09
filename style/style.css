@@ -124,3 +124,6 @@ main{
     display: flex;
     justify-content: space-around;
 }
+#what-do-des{
+    padding: 30px 150px;
+}
